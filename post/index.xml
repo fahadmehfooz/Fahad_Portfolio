@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Fahad Mehfooz</title>
+    <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/</link>
+    <description>Recent content in Projects on Fahad Mehfooz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://fahadmehfooz.github.io/Fahad_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investigating The Myths Related To Vaccines (EDA).</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-5-/</link>
+      <pubDate>Sat, 10 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-5-/</guid>
+      <description>Objective: Investigating the myths related to vaccines and to perform sentiment analysis. Dataset contains 1566 rows and 8 columns. Found out polarity and sensitivity of categorical columns. Built a corpus and removed the stopwords. Performed EDA. Built wordcloud for positive and negative words.   Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>To Predict The Activity A Person Is Doing.</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 30 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-4/</guid>
+      <description>Objective: To predict the activity a person is doing. Label encoded the target variable. Used min max scaling to scale the data. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. Hypertuned the based model to find the number of layers, units and the activation functions needed.   Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>To Predict Whether Or Not A Patient Has Diabetes.</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 12 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-3/</guid>
+      <description>Objective: To predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Dealt with class imbalance using SMOTE. Divided the data into train and test data. Performed oversampling on train dataset/ Trained on multiple models like Logistic Regression, SVM, Bernoulli Naive Bayes, Gaussian Naive Bayes, KNN, and XGBoost.   Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>EDA and Predictive Modelling On Rain In Australia</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 01 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-2/</guid>
+      <description>Dataset contains 145460 rows and 23 columns. Removing the outliers. Oversampling the train data to get more balanced data using SMOTE. Trained on multiple models like Logistic Regression, XGBoost, Bernoulli Naive Bayes, Gaussian Naive Bayes, and RandomForest.   Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Cat Image Classifier Using Transfer-Learning</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 12 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-1/</guid>
+      <description>Classifying different images of cats into the following categories : Bombay, Calico, Burmese, Himalayan, Munchkin, Ragdoll, Siberian, British Shorthair, Russian Blue, and Dilute Calico. Trained the model on 11740 images. Dealt with class imbalance. Transfer learning is applied to train the model. Augmenting the data using an image data generator. Pretrained Model used: InceptionV3   Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>NLP Based Chatbot.</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-6-/</link>
+      <pubDate>Tue, 10 Mar 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-6-/</guid>
+      <description>Take an input from the user using speech on what you want to search. Download the data from newspaper on the disease matching user&amp;rsquo;s input. Tokenize, lemmatize and stemming the data. Vectorize the downloaded text and evaluate how important a word is to a document. Using cosine similarity , find how similar the downloaded text is to user&amp;rsquo;s search.  Link to GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>
