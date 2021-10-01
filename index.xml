@@ -6,7 +6,16 @@
     <description>Recent content in Data Science Portfolio on Fahad Mehfooz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jul 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://fahadmehfooz.github.io/Fahad_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://fahadmehfooz.github.io/Fahad_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classification On Prudential Life Insurance With Model Interpretation</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-8/</link>
+      <pubDate>Sun, 15 Aug 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-8/</guid>
+      <description>We are provided with over a hundred variables describing attributes of life insurance applicants. The task is to predict the &amp;ldquo;Response&amp;rdquo; variable for each Id in the test set. &amp;ldquo;Response&amp;rdquo; is an ordinal measure of risk that has 8 levels. Handling null values and the class imbalance. Built tree based models,logistic regression and stacked models. Doing a feature importance check for all the models. Interpreting the model, how every feature is pushing towards which target response.</description>
+    </item>
+    
     <item>
       <title>Investigating The Myths Related To Vaccines (EDA).</title>
       <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-5-/</link>
@@ -68,6 +77,15 @@
       
       <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/publications/publication-1/</guid>
       <description>Abstract: Conversational agents or more universally known as the chatbot were industrialized to respond to user’s queries in a particular domain. Chatbot would serve as a software delegate which enables a computer to converse with human via natural language. A chatbot is a human-like conversational character (Shaikh et al. Int J Eng Sci Comput 6:3117–3119, 2016 [1]. This technology was coined in 1960s, with the intention to impersonate a human (how he would reply to a particular situation) so that the user feels that he is talking to a real person and not a machine.</description>
+    </item>
+    
+    <item>
+      <title>Malaria Classification: CNN Vs ResNet50 Vs VGG19 Vs InceptionV3</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-7/</link>
+      <pubDate>Tue, 10 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-7/</guid>
+      <description>Classifying different images of cells into the categories : Infected and Uninfected. Trained the model on 27,558 images. Took a test split of 20%. Models trained with CNN, ResNet50, VGG19 and InceptionV3. Preparing the image path and storing them in a dataframe along with their labels. Augmenting the data using an image data generator.   Link to GitHub repository</description>
     </item>
     
     <item>
