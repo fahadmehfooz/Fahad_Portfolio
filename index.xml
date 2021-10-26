@@ -6,7 +6,43 @@
     <description>Recent content in Data Science Portfolio on Fahad Mehfooz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Aug 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://fahadmehfooz.github.io/Fahad_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fahadmehfooz.github.io/Fahad_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Credit Analysis With Knn/Dtree/Rf/Bagging/ANN</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-11/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-11/</guid>
+      <description>The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (&amp;lsquo;yes&amp;rsquo;) or not (&amp;lsquo;no&amp;rsquo;) subscribed. Classifying if the term deposit would be subscribed or not. Dataset contains 41188 rows and 21 columns. Class imbalance observed for target variable.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis Using: SVM/NaiveBayes/Bagging/Boosting/RandomForest-LSTM</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-12/</link>
+      <pubDate>Tue, 28 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-12/</guid>
+      <description>Classifying different tweets of users into the categories : Positive and Negative. Took a test split of 20%. Converting the tokens using a TF-IDF vectorizer. Models trained with SVM, NaiveBayes, Bagging with MultinomialNb, AdaBoosting and RandomForest. Tuning the hyperprameters of all the models. Plotting precision-recall and roc-auc curves.   Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Google Stock Prediction With Stacked LSTM</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-10/</link>
+      <pubDate>Fri, 10 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-10/</guid>
+      <description>We are provided with 6 variables describing the stock market trend for google. The task is to predict the future stock market price on the basis of past data. Here, I have taken past 100 days data to predict the next day&amp;rsquo;s stock price. I used an LSTM model because of it is powerful in storing sequence. After building the model, I used keras tuner to tune the hyperparameters of the model.</description>
+    </item>
+    
+    <item>
+      <title>Brain Tumor Detection Using Keras And Pytorch</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-9/</link>
+      <pubDate>Fri, 27 Aug 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-9/</guid>
+      <description>To Detect and Classify Brain Tumor using, CNN and TL; as an asset of Deep Learning and to examine the tumor position(segmentation). Prepared train and test data. Classifying brain images to one of the 4 categories: glioma_tumor, no_tumor, meningioma_tumor and pituitary_tumor. Data augmentation to include more images. Trained a CNN using keras and pytorch both. Used 4 convolutional layers, a dropout layer to avoid overfitting and compiled the model using Adam optimizer.</description>
+    </item>
+    
     <item>
       <title>Classification On Prudential Life Insurance With Model Interpretation</title>
       <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-8/</link>
@@ -35,7 +71,7 @@
     </item>
     
     <item>
-      <title>To Predict Whether Or Not A Patient Has Diabetes.</title>
+      <title>Diabetic Or Not?</title>
       <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-3/</link>
       <pubDate>Sat, 12 Jun 2021 11:00:59 -0400</pubDate>
       
