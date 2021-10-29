@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Fahad Mehfooz</title>
+    <link>https://fahadmehfooz.github.io/Fahad_Portfolio/publications/</link>
+    <description>Recent content in Publications on Fahad Mehfooz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://fahadmehfooz.github.io/Fahad_Portfolio/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medical Chatbot for Novel COVID-19.</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/publications/publication-1/</link>
+      <pubDate>Mon, 14 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/publications/publication-1/</guid>
+      <description>Abstract: Conversational agents or more universally known as the chatbot were industrialized to respond to user’s queries in a particular domain. Chatbot would serve as a software delegate which enables a computer to converse with human via natural language. A chatbot is a human-like conversational character (Shaikh et al. Int J Eng Sci Comput 6:3117–3119, 2016 [1]. This technology was coined in 1960s, with the intention to impersonate a human (how he would reply to a particular situation) so that the user feels that he is talking to a real person and not a machine.</description>
+    </item>
+    
+    <item>
+      <title>In what scenarios are machine learning models safe to apply?</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/publications/publication-2/</link>
+      <pubDate>Wed, 13 Mar 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/publications/publication-2/</guid>
+      <description>Abstract: Confidence is necessary as it acts as the base when developing a machine learning model. But is it always reliable? While developing model, different aspects should be considered like security, data for training shouldn’t be flawed, risk management should be handled, etc. By this paper, I would address how someone can build a trustworthy model, what problems should be addressed and how to remove those issues.
+Link to the research paper</description>
+    </item>
+    
+  </channel>
+</rss>
