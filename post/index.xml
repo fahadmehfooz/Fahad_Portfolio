@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Fahad Mehfooz</title>
+    <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/</link>
+    <description>Recent content in Projects on Fahad Mehfooz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://fahadmehfooz.github.io/Fahad_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Credit Analysis With Knn/Dtree/Rf/Bagging/ANN</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-11/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-11/</guid>
+      <description>The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (&amp;lsquo;yes&amp;rsquo;) or not (&amp;lsquo;no&amp;rsquo;) subscribed. Classifying if the term deposit would be subscribed or not. Dataset contains 41188 rows and 21 columns. Class imbalance observed for target variable.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis Using: SVM/NaiveBayes/Bagging/Boosting/RandomForest-LSTM</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-12/</link>
+      <pubDate>Tue, 28 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-12/</guid>
+      <description>Classifying different tweets of users into the categories : Positive and Negative. Took a test split of 20%. Converting the tokens using a TF-IDF vectorizer. Models trained with SVM, NaiveBayes, Bagging with MultinomialNb, AdaBoosting and RandomForest. Tuning the hyperprameters of all the models. Plotting precision-recall and roc-auc curves.   Source Code</description>
+    </item>
+    
+    <item>
+      <title>Google Stock Prediction With Stacked LSTM</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-10/</link>
+      <pubDate>Fri, 10 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-10/</guid>
+      <description>We are provided with 6 variables describing the stock market trend for google. The task is to predict the future stock market price on the basis of past data. Here, I have taken past 100 days data to predict the next day&amp;rsquo;s stock price. I used an LSTM model because of it is powerful in storing sequence. After building the model, I used keras tuner to tune the hyperparameters of the model.</description>
+    </item>
+    
+    <item>
+      <title>Brain Tumor Detection Using Keras And Pytorch</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-9/</link>
+      <pubDate>Fri, 27 Aug 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-9/</guid>
+      <description>To Detect and Classify Brain Tumor using, CNN and TL; as an asset of Deep Learning and to examine the tumor position(segmentation). Prepared train and test data. Classifying brain images to one of the 4 categories: glioma_tumor, no_tumor, meningioma_tumor and pituitary_tumor. Data augmentation to include more images. Trained a CNN using keras and pytorch both. Used 4 convolutional layers, a dropout layer to avoid overfitting and compiled the model using Adam optimizer.</description>
+    </item>
+    
+    <item>
+      <title>Classification On Prudential Life Insurance With Model Interpretation</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-8/</link>
+      <pubDate>Sun, 15 Aug 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-8/</guid>
+      <description>We are provided with over a hundred variables describing attributes of life insurance applicants. The task is to predict the &amp;ldquo;Response&amp;rdquo; variable for each Id in the test set. &amp;ldquo;Response&amp;rdquo; is an ordinal measure of risk that has 8 levels. Handling null values and the class imbalance. Built tree based models,logistic regression and stacked models. Doing a feature importance check for all the models. Interpreting the model, how every feature is pushing towards which target response.</description>
+    </item>
+    
+    <item>
+      <title>Investigating The Myths Related To Vaccines (EDA).</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-5-/</link>
+      <pubDate>Sat, 10 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-5-/</guid>
+      <description>Objective: Investigating the myths related to vaccines and to perform sentiment analysis. Dataset contains 1566 rows and 8 columns. Found out polarity and sensitivity of categorical columns. Built a corpus and removed the stopwords. Performed EDA. Built wordcloud for positive and negative words.   Source Code</description>
+    </item>
+    
+    <item>
+      <title>To Predict The Activity A Person Is Doing.</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 30 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-4/</guid>
+      <description>Objective: To predict the activity a person is doing. Label encoded the target variable. Used min max scaling to scale the data. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. Hypertuned the based model to find the number of layers, units and the activation functions needed.   Source Code</description>
+    </item>
+    
+    <item>
+      <title>Diabetic Or Not?</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 12 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-3/</guid>
+      <description>Objective: To predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Dealt with class imbalance using SMOTE. Divided the data into train and test data. Performed oversampling on train dataset/ Trained on multiple models like Logistic Regression, SVM, Bernoulli Naive Bayes, Gaussian Naive Bayes, KNN, and XGBoost.   Source Code</description>
+    </item>
+    
+    <item>
+      <title>EDA and Predictive Modelling On Rain In Australia</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 01 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-2/</guid>
+      <description>Dataset contains 145460 rows and 23 columns. Removing the outliers. Oversampling the train data to get more balanced data using SMOTE. Trained on multiple models like Logistic Regression, XGBoost, Bernoulli Naive Bayes, Gaussian Naive Bayes, and RandomForest.   Source Code</description>
+    </item>
+    
+    <item>
+      <title>Cat Image Classifier Using Transfer-Learning</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 12 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-1/</guid>
+      <description>Classifying different images of cats into the following categories : Bombay, Calico, Burmese, Himalayan, Munchkin, Ragdoll, Siberian, British Shorthair, Russian Blue, and Dilute Calico. Trained the model on 11740 images. Dealt with class imbalance. Transfer learning is applied to train the model. Augmenting the data using an image data generator. Pretrained Model used: InceptionV3   Source Code</description>
+    </item>
+    
+    <item>
+      <title>Malaria Classification: CNN Vs ResNet50 Vs VGG19 Vs InceptionV3</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-7/</link>
+      <pubDate>Tue, 10 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-7/</guid>
+      <description>Classifying different images of cells into the categories : Infected and Uninfected. Trained the model on 27,558 images. Took a test split of 20%. Models trained with CNN, ResNet50, VGG19 and InceptionV3. Preparing the image path and storing them in a dataframe along with their labels. Augmenting the data using an image data generator.   Source Code</description>
+    </item>
+    
+    <item>
+      <title>NLP Based Chatbot.</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-6-/</link>
+      <pubDate>Tue, 10 Mar 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-6-/</guid>
+      <description>Take an input from the user using speech on what you want to search. Download the data from newspaper on the disease matching user&amp;rsquo;s input. Tokenize, lemmatize and stemming the data. Vectorize the downloaded text and evaluate how important a word is to a document. Using cosine similarity , find how similar the downloaded text is to user&amp;rsquo;s search.  Source Code</description>
+    </item>
+    
+  </channel>
+</rss>
