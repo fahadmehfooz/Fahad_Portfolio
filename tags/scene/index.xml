@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Fahad Mehfooz</title>
+    <link>https://fahadmehfooz.github.io/Fahad_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Fahad Mehfooz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://fahadmehfooz.github.io/Fahad_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cat Image Classifier Using Transfer-Learning</title>
+      <link>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 12 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://fahadmehfooz.github.io/Fahad_Portfolio/post/project-1/</guid>
+      <description>Classifying different images of cats into the following categories : Bombay, Calico, Burmese, Himalayan, Munchkin, Ragdoll, Siberian, British Shorthair, Russian Blue, and Dilute Calico. Trained the model on 11740 images. Dealt with class imbalance. Transfer learning is applied to train the model. Augmenting the data using an image data generator. Pretrained Model used: InceptionV3   Source Code</description>
+    </item>
+    
+  </channel>
+</rss>
